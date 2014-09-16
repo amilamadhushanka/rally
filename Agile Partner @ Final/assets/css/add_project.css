@@ -1,0 +1,105 @@
+body{
+
+
+}
+
+.editor label {
+  float: left;
+  width: 30px;   // just putting an example here - but give them a width to align better
+  text-align: right; // this right-aligns them with the input
+}
+
+.editor input[type=text] {
+  width: 80px; // just putting an example value in here to make your inputs uniform in length
+  margin: 0 0 0 10px; // just some breathing room from the labels
+}
+
+
+.textboxclass {
+height: 30px;
+width: 100px;
+}
+
+.Createbutton {
+	-moz-box-shadow:inset 0px 47px 0px 50px #fceaca;
+	-webkit-box-shadow:inset 0px 47px 0px 50px #fceaca;
+	box-shadow:inset 0px 47px 0px 50px #fceaca;
+	background-color:#ffce79;
+	-webkit-border-top-left-radius:30px;
+	-moz-border-radius-topleft:30px;
+	border-top-left-radius:30px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:30px;
+	-moz-border-radius-bottomright:30px;
+	border-bottom-right-radius:30px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0px;
+	border:4px solid #97ed51;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	font-style:normal;
+	height:28px;
+	line-height:28px;
+	width:94px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:6px 3px 1px #ce8e28;
+}.Createbutton:hover {
+	background-color:#eeaf41;
+}.Createbutton:active {
+	position:relative;
+	top:1px;
+}</style>
+
+
+<style type="text/css">
+.btn_save {
+	-moz-box-shadow:inset -7px 3px 50px -9px #caefab;
+	-webkit-box-shadow:inset -7px 3px 50px -9px #caefab;
+	box-shadow:inset -7px 3px 50px -9px #caefab;
+	background-color:transparent;
+	-webkit-border-top-left-radius:22px;
+	-moz-border-radius-topleft:22px;
+	border-top-left-radius:22px;
+	-webkit-border-top-right-radius:22px;
+	-moz-border-radius-topright:22px;
+	border-top-right-radius:22px;
+	-webkit-border-bottom-right-radius:22px;
+	-moz-border-radius-bottomright:22px;
+	border-bottom-right-radius:22px;
+	-webkit-border-bottom-left-radius:22px;
+	-moz-border-radius-bottomleft:22px;
+	border-bottom-left-radius:22px;
+	text-indent:0;
+	border:3px solid #268a16;
+	display:inline-block;
+	color:#306108;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:normal;
+	font-style:italic;
+	height:19px;
+	line-height:19px;
+	width:114px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:42px 0px 48px #aade7c;
+}.btn_save:active {
+	position:relative;
+	top:1px;
+}</style>
+
+input.search {
+    width: 20em;  height: 2em;
+}
+/* This button was generated using CSSButtonGenerator.com */
+
+/* This button was generated using CSSButtonGenerator.com */
+/* This button was generated using CSSButtonGenerator.com */
